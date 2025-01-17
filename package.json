@@ -37,6 +37,9 @@
   "dependencies": {
     "git-clone": "^0.1.0"
   },
+  "engines": {
+    "node": "8.x"
+  },
   "devDependencies": {
     "bluetooth-terminal": "^1.3.5",
     "cpx": "^1.5.0",
