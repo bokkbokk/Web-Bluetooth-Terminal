@@ -35,15 +35,15 @@
   },
   "homepage": "https://loginov-rocks.github.io/Web-Bluetooth-Terminal",
   "dependencies": {
-    "git-clone": "^0.1.0"
+    "git-clone": "^0.2.0"
   },
   "devDependencies": {
     "bluetooth-terminal": "^1.4.2",
     "cpx": "^1.5.0",
-    "eslint": "^5.16.0",
-    "eslint-config-google": "^0.12.0",
-    "node-sass": "^4.14.1",
-    "nodemon": "^1.19.4",
+    "eslint": "^9.18.0",
+    "eslint-config-google": "^0.14.0",
+    "node-sass": "^9.0.0",
+    "nodemon": "^3.1.9",
     "normalize.css": "^8.0.1",
     "sw-toolbox": "^3.6.0"
   }
